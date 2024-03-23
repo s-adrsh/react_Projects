@@ -8,6 +8,11 @@
 
 @layer base{
     html{
-       font-family: "Ubuntu", sans-serif
+       font-family: "Ubuntu", sans-serif;
+       background-color:#e3e3e3;
+    }
+    input[type='checkbox']{
+     
+        @apply accent-blue-600 mt-0.5;
     }
 }

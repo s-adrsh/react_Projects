@@ -4,10 +4,12 @@ export default {
   theme: {
     extend: {
       colors: {
-        card1: "#5694F2",
-        card2: "#FEC347",
-        card3: "#53C2C5",
-        card4: "#F26E56",
+        cardColor: {
+          100: "#5694F2",
+          200: "#FEC347",
+          300: "#53C2C5",
+          400: "#F26E56",
+        },
       },
     },
   },

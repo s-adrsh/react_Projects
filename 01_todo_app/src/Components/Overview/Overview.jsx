@@ -3,17 +3,17 @@ import OverviewCard from "./OverviewCard";
 
 function Overview() {
   const details = [
-    { color: "card1", process: "On Going" },
+    { color: "#5694F2", process: "On Going" },
     {
-      color: "card2",
+      color: "#FEC347",
       process: "In Process",
     },
     {
-      color: "card3",
+      color: "#53C2C5",
       process: "Completed",
     },
     {
-      color: "card4",
+      color: "#F26E56",
       process: "Cancelled",
     },
   ];
